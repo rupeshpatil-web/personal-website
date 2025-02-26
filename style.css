@@ -1,0 +1,100 @@
+div.head
+{
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.headh1
+{
+    font-size: 50px;
+    font-weight: bold;
+}
+.heada
+{
+    justify-content: center;
+    text-align: center;
+    font-size: medium;
+    padding: 15px;
+    font-size: 18px;
+}
+.heada:hover
+{
+
+    background-color: #f9f9f9;
+}
+div.main1
+{ 
+    float: left;
+    width: 50%;
+    border: 0cap;
+    height: 600px;
+}
+
+div.main:after
+{
+    content: "";
+    clear: both;
+    display: table;
+}
+#main
+{
+    background-color: #cac4ce;
+    margin: 10px;
+    height: 600px;
+    border: 0cap;
+}
+.main1p1h1
+{
+    text-align: center;
+    padding-top: 150px;
+   
+}
+.main1p1p
+{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 17px;   
+}
+.main1p1a
+{
+    padding-left: 50px;
+    font-size: 18px;
+    color: black;
+}
+#main1p2
+{
+    text-align: right;   
+}
+.main1p2img
+{
+    height: 600px;
+    width: auto;
+    background-color: none;
+}
+div.bottom
+{
+    background-color: none;
+    text-align: center;
+    padding: 20px;
+}
+.bottoma
+{
+    text-decoration: none;
+    color: #030303;
+    border: none;
+    font-size: 17px;
+    padding: 20px;
+}
+#bottoma1:hover
+{
+    color: #0A66C2;
+}
+#bottoma2:hover
+{
+    color: #000000;
+}
+#bottoma3:hover
+{
+    color: #FD1D1D;
+}
